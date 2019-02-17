@@ -1,5 +1,6 @@
-# bike sharing prediction
+# Udacity NanoDegree DeepLearning 
 
+Staring 02/2019
 
 ### setup
 
