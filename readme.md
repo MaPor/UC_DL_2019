@@ -1,14 +1,7 @@
 # Udacity NanoDegree DeepLearning 
 
-Staring 02/2019
+Started in 02/2019
 
-### setup
-
-### usage
-
-
-## result
-
-> Progress: 100.0% ... Training loss: 0.068 ... Validation loss: 0.164
-
-
+### Project 1: Bike Predictions -> finished
+### Project 2: Dog Breed classifications -> submitted
+### Project 3: GitHub Profile -> ongoing
