@@ -7,6 +7,10 @@ Started in 02/2019
 * Project 2: Dog Breed classifications
   *  submitted & finished
 * Project 3: GitHub Profile
-  *  started - ongoing 
+  *  submitted & finished 
 * Project 4: TV Script Generation
-  *  started - ongoing
+  *  submitted & finished
+* Project 5: Face Generation with GAN
+  *  started & submitted
+* Project 6: LinkedIn Profile
+  *  started 
